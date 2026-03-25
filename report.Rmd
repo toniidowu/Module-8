@@ -56,7 +56,6 @@ hist(random_numbers2)
 #| fig.cap = "Third set of random numbers"
 hist(random_numbers3)
 ```
-<<<<<<< HEAD
 
 # Random numbers 4
 ```{r, random-numbers4-histogram}
@@ -71,4 +70,3 @@ hist(random_numbers4)
 hist(random_numbers5)
 ```
 
->>>>>>> upstream/main
